@@ -36,7 +36,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
   
-  ### [aabccd021][aabccd021]
+### [aabccd021][aabccd021]
 
 - [Orgo][orgo]\
   Bot LINE untuk mempermudah organisasi.

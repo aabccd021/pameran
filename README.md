@@ -7,6 +7,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 | ---- |
 | [giovanism](#giovanism) |
 | [laymonage](#laymonage) |
+| [aabccd021](#aabccd021) |
 
 ## Daftar proyek
 
@@ -34,6 +35,17 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
   Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
+  
+  ### [aabccd021][aabccd021]
+
+- [Orgo][orgo]\
+  Bot LINE untuk mempermudah organisasi.
+- [Ristek GameDev Project][ristek]\
+  Dungeon crawler game with procedural terrain.
+- [Fun Coding][funcoding]\
+  Coding game for Open House Fasilkom UI.
+- [Aren Revolution API][aren]\
+  Java Spring Boot API to immitate AREN Grader.
 
 [giovanism]: https://github.com/giovanism
 [GMD]: https://github.com/giovanism/GMD
@@ -46,3 +58,9 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [tarungbot]: https://github.com/laymonage/TarungBot
 [tarunglab-ddp1]: https://github.com/laymonage/TarungLabDDP1
 [udtop-python]: https://github.com/laymonage/urbandictionary_top-python
+
+[aabccd021]: https://gitlab.com/aabccd021
+[orgo]: https://gitlab.com/aabccd021/chat-bot-manajemen-organisasi
+[ristek]: https://gitlab.com/ristek/gamedev/ristek-gamedev-project
+[funcoding]: https://gitlab.com/ristek/gamedev/funcoding-oh
+[aren]: https://gitlab.com/aabccd021/aren-revolution-api
